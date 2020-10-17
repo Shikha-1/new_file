@@ -1,4 +1,4 @@
 Hello Everyone
-I am learning git.
+I am learning git and it's going well.
 i am happy learning this.
 I learned a lot of things in Git.
