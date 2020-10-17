@@ -1,4 +1,7 @@
 Hello Everyone
+<<<<<<< HEAD
 I am learning git and i like this.
+=======
+>>>>>>> sidebar2
 i am happy learning this.
 I learned a lot of things in Git.
